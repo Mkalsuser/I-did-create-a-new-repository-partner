@@ -1,0 +1,14 @@
+D:\Pasta\TPA\exercicios tpa\exe 8\exe 8\bin\Debug\net8.0\exe 8.exe
+D:\Pasta\TPA\exercicios tpa\exe 8\exe 8\bin\Debug\net8.0\exe 8.deps.json
+D:\Pasta\TPA\exercicios tpa\exe 8\exe 8\bin\Debug\net8.0\exe 8.runtimeconfig.json
+D:\Pasta\TPA\exercicios tpa\exe 8\exe 8\bin\Debug\net8.0\exe 8.dll
+D:\Pasta\TPA\exercicios tpa\exe 8\exe 8\bin\Debug\net8.0\exe 8.pdb
+D:\Pasta\TPA\exercicios tpa\exe 8\exe 8\obj\Debug\net8.0\exe 8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pasta\TPA\exercicios tpa\exe 8\exe 8\obj\Debug\net8.0\exe 8.AssemblyInfoInputs.cache
+D:\Pasta\TPA\exercicios tpa\exe 8\exe 8\obj\Debug\net8.0\exe 8.AssemblyInfo.cs
+D:\Pasta\TPA\exercicios tpa\exe 8\exe 8\obj\Debug\net8.0\exe 8.csproj.CoreCompileInputs.cache
+D:\Pasta\TPA\exercicios tpa\exe 8\exe 8\obj\Debug\net8.0\exe 8.dll
+D:\Pasta\TPA\exercicios tpa\exe 8\exe 8\obj\Debug\net8.0\refint\exe 8.dll
+D:\Pasta\TPA\exercicios tpa\exe 8\exe 8\obj\Debug\net8.0\exe 8.pdb
+D:\Pasta\TPA\exercicios tpa\exe 8\exe 8\obj\Debug\net8.0\exe 8.genruntimeconfig.cache
+D:\Pasta\TPA\exercicios tpa\exe 8\exe 8\obj\Debug\net8.0\ref\exe 8.dll

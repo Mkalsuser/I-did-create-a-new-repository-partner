@@ -1,0 +1,14 @@
+D:\Pasta\TPA\exercicios tpa\exer 4\exer 4\bin\Debug\net8.0\exer 4.exe
+D:\Pasta\TPA\exercicios tpa\exer 4\exer 4\bin\Debug\net8.0\exer 4.deps.json
+D:\Pasta\TPA\exercicios tpa\exer 4\exer 4\bin\Debug\net8.0\exer 4.runtimeconfig.json
+D:\Pasta\TPA\exercicios tpa\exer 4\exer 4\bin\Debug\net8.0\exer 4.dll
+D:\Pasta\TPA\exercicios tpa\exer 4\exer 4\bin\Debug\net8.0\exer 4.pdb
+D:\Pasta\TPA\exercicios tpa\exer 4\exer 4\obj\Debug\net8.0\exer 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pasta\TPA\exercicios tpa\exer 4\exer 4\obj\Debug\net8.0\exer 4.AssemblyInfoInputs.cache
+D:\Pasta\TPA\exercicios tpa\exer 4\exer 4\obj\Debug\net8.0\exer 4.AssemblyInfo.cs
+D:\Pasta\TPA\exercicios tpa\exer 4\exer 4\obj\Debug\net8.0\exer 4.csproj.CoreCompileInputs.cache
+D:\Pasta\TPA\exercicios tpa\exer 4\exer 4\obj\Debug\net8.0\exer 4.dll
+D:\Pasta\TPA\exercicios tpa\exer 4\exer 4\obj\Debug\net8.0\refint\exer 4.dll
+D:\Pasta\TPA\exercicios tpa\exer 4\exer 4\obj\Debug\net8.0\exer 4.pdb
+D:\Pasta\TPA\exercicios tpa\exer 4\exer 4\obj\Debug\net8.0\exer 4.genruntimeconfig.cache
+D:\Pasta\TPA\exercicios tpa\exer 4\exer 4\obj\Debug\net8.0\ref\exer 4.dll
